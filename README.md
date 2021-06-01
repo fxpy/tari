@@ -1,5 +1,7 @@
 # Tari
 
+ver 0.8.9
+
 To install Tari node run
 
 ```
