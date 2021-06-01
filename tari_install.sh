@@ -14,5 +14,3 @@ rm tari.zip
 sudo ./install_tor.sh
 sudo ./setup_tor_service
 sudo ./tari_base_node --create-id -y -y
-
-screen -S node ./tari_base_node
