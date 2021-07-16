@@ -1,6 +1,6 @@
-# Tari
+# Tari 
 
-ver 0.8.9
+ver 0.8.10 (Ubuntu)
 
 To install Tari node run
 
